@@ -19,40 +19,48 @@ I like the messy problems: legacy codebases with no documentation, ambiguous req
 bugs that cross the frontend, Java and the application server. I turn them into software that is
 easy to maintain. I use AI every day as an engineering tool, and I stay responsible for what ships.
 
-After hours I build my own products: **web and mobile games**, **AI automation platforms** and
-**full-stack apps**, from the first idea to deployment.
+After hours I work **AI-native**: I use coding agents as my development team. I define the
+product, the architecture and the data model, direct the implementation, review and test the
+result, and deploy it to production. That is how I've shipped **web and mobile games**,
+**AI automation platforms** and **full-stack apps** in stacks well beyond my day job.
 
 ### 🧰 Stack
 
-**Daily**<br>
+**Professional, hands-on**<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Web Components](https://img.shields.io/badge/Web%20Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%2FJSP-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Product & full-stack**<br>
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Working experience**<br>
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Shipped with AI agents** <sub>(I own product, architecture, review and deployment)</sub><br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Games & AI**<br>
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI%20%2F%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-8A2BE2?style=flat-square)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI%20%2F%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### 🚀 Featured projects
+**AI tooling**<br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+### 🚀 Featured projects <sub>— built AI-native</sub>
 
 | Project | What it is | Stack |
 |---|---|---|
