@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://dalebrook.org"><img src="https://img.shields.io/badge/dalebrook.org-000?style=flat-square&logo=googlechrome&logoColor=white" alt="dalebrook.org"></a>
   <a href="https://antitropic.com"><img src="https://img.shields.io/badge/antitropic.com-6E40C9?style=flat-square&logo=godotengine&logoColor=white" alt="antitropic.com"></a>
-  <img src="https://img.shields.io/badge/Seville%20%C2%B7%20Remote-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Seville · Remote">
+  <img src="https://img.shields.io/badge/Spain%20%C2%B7%20Remote-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Spain · Remote">
 </p>
 
 ---
