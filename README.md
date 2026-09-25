@@ -66,7 +66,7 @@ result, and deploy it to production. That is how I've shipped **web and mobile g
 |---|---|---|
 | **Gmail Triage Platform** <sub>(private · demo on request)</sub> | Multi-tenant SaaS that classifies incoming email with AI and acts on it within seconds. An admin runs many client mailboxes from one panel, with no access to their accounts. | React · TS · Cloud Functions (Python) · Firestore · Vertex AI Gemini · Pub/Sub |
 | **[SkullyStore](https://github.com/jdalebrook/skullystore-showcase)** · [🟢 live](https://store.bskully.es) | Custom e-commerce built without Shopify or PrestaShop: catalogue, customer and admin roles, PayPal checkout, Dockerised deploy behind nginx. | Next.js 16 · TS · Prisma · PostgreSQL · Auth.js · PayPal |
-| **BSkully** · [🟢 Google Play](https://play.google.com/store/apps/details?id=com.skullymath.quest) | Educational math RPG for kids aged 7–10: 20 worlds, adaptive difficulty with spaced repetition, and cloud saves. Runs on the web and Android. | Phaser · TS · Vite · Capacitor · Firebase |
+| **[BSkully](https://github.com/jdalebrook/skullymath-showcase)** · [🟢 Google Play](https://play.google.com/store/apps/details?id=com.skullymath.quest) | Educational math RPG for kids aged 7–10: 20 worlds, adaptive difficulty with spaced repetition, and cloud saves. Runs on the web and Android. | Phaser · TS · Vite · Capacitor · Firebase |
 | **[COOLSCRAPER](https://github.com/jdalebrook/InteligenciaArtificial)** | Pipeline that collects AI news from RSS, writes social-media summaries with GPT and exports them to Google Sheets for scheduled publishing. | Python · OpenAI · Google Sheets API |
 
 <sub>More games and experiments live under <a href="https://antitropic.com">Antitropic</a>.</sub>
